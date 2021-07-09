@@ -28,7 +28,7 @@ Then add:
 ]
 ```
 
-Modify Escma version to 2018 and es2020 to es6:
+Modify Ecma version to 2018 and es2020 to es6:
 
 ```json
 "env": {
